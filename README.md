@@ -4,30 +4,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://discord.gg/FgvVFQgdCW">
-    <img src="https://img.shields.io/badge/chat-on%20discord-brightgreen.svg">
-  </a>
-
-  <a href="https://github.com/tronprotocol/tronweb/issues">
-    <img src="https://img.shields.io/github/issues/tron-us/tronweb.svg">
-  </a>
-
-  <a href="https://github.com/tronprotocol/tronweb/pulls">
-    <img src="https://img.shields.io/github/issues-pr/tron-us/tronweb.svg">
-  </a>
-
-  <a href="https://github.com/tronprotocol/tronweb/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/tron-us/tronweb.svg">
-  </a>
-
-  <a href="LICENSE">
-    <img src="https://img.shields.io/github/license/tron-us/tronweb.svg">
-  </a>
-</p>
-
-## What is TronWeb?
-TronWeb fork with fetch request implementation
+# TronWeb fork with browser web extension support
 
 ## HomePage
 
