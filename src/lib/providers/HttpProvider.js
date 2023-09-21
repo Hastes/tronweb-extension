@@ -1,4 +1,4 @@
-import axios from 'axios';
+import axios from 'redaxios';
 import utils from 'utils';
 
 export default class HttpProvider {

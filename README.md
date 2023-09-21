@@ -5,6 +5,7 @@
 </h1>
 
 # TronWeb fork with browser web extension support
+Axios replaced by fetch
 
 ## HomePage
 
